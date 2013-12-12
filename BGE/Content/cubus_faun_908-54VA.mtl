@@ -1,0 +1,109 @@
+# WaveFront OBJ - Mtl file exported by LightRay3D
+# cubus_faun_908-54VA.mtl
+# Num Materials: 15
+
+newmtl motor1
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\motor1.jpg
+
+newmtl kaba
+Ka 0.501961 0.501961 0.501961
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\kaba.jpg
+
+newmtl player
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\player.jpg
+
+newmtl tools
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\Tools.tga
+
+newmtl licht
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\licht.tga
+
+newmtl detail
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\details.tga
+
+newmtl fenster
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\Window.tga
+
+newmtl kabi
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\kabl.jpg
+
+newmtl rahmen
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\rahmen.jpg
+
+newmtl bumber
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\bumber.jpg
+
+newmtl radf
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\radf.jpg
+
+newmtl radp
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\radp.jpg
+
+newmtl rrad
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\rrad.jpg
+
+newmtl Mat_5
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\opel_blitz_plane.jpg
+
+newmtl pritsche
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 781.250000
+map_Kd G:\spiele\mohaa\model_entwurf\cubus_bw_faun_908-54VA\pritsche.jpg
+

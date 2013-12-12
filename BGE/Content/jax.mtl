@@ -1,0 +1,22 @@
+# Blender MTL File: 'alexia.blend'
+# Material Count: 2
+
+newmtl Material__240
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd CH_Pa_ROB_Jax_Head_D.tga
+
+newmtl Material__290
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd CH_Pa_ROB_Jax_Body_D.tga
