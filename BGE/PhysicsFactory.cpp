@@ -282,7 +282,7 @@ shared_ptr<PhysicsController> PhysicsFactory::CreateRandomObject(glm::vec3 point
 }
 
 
-shared_ptr<PhysicsController> PhysicsFactory::CreateKineticBox(float width, float height, float depth, glm::vec3 pos, glm::quat quat)
+shared_ptr<PhysicsController> PhysicsFactory::CreateKinematicBox(float width, float height, float depth, glm::vec3 pos, glm::quat quat)
 {
 	// Create the shape
 	btCollisionShape * boxShape = new btBoxShape(btVector3(width, height, depth) * 0.5);

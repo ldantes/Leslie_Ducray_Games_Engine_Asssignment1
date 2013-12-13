@@ -34,12 +34,14 @@ namespace BGE
 		Assignment(void);
 		~Assignment(void);
 		btDiscreteDynamicsWorld * dynamicsWorld;
+		//shared pointers for physics controllers
 		shared_ptr<PhysicsController> watcher;
-		shared_ptr<PhysicsController> ship1;
+		shared_ptr<PhysicsController> spinBall;
 		shared_ptr<PhysicsController> bomb;
 		shared_ptr<PhysicsController> pillar;
 		shared_ptr<PhysicsController> chain;
-		btPoint2PointConstraint  * hinge;
+		
+		btPoint2PointConstraint  * ball2chain;
 				
 		shared_ptr<SnowEffect> snow;
 		bool Initialise();
@@ -55,11 +57,13 @@ namespace BGE
 		shared_ptr<FountainEffect> watcherPartical;
 		glm::quat fromQuaternion;
 		glm::quat toQuaternion;
+		int gameCount;
 		float t;
 		float particleTheta;
 		float ySpeed;
 		bool success;
 		bool bond;
+	
 
 		// The world.
 		
