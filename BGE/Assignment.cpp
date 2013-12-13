@@ -111,6 +111,7 @@ bool Assignment::Initialise()
 	// Create solidBody link (chain) 
 	chain = make_shared<PhysicsController>();
 	chain = physicsFactory2->CreateBox(0.1, 15, 0.1, glm::vec3(100,50,100), glm::quat());
+
 	// SpinBall to chain constraint - point to point
 	btPoint2PointConstraint  * ballChainball2chain = new btPoint2PointConstraint(*spinBall->rigidBody, *chain->rigidBody, btVector3(3,0,0),btVector3(0,8,0));
 	dynamicsWorld->addConstraint(ballChainball2chain);
@@ -217,9 +218,9 @@ void Assignment::Update(float timeDelta)
 			if(elapsed > active)
 			{
 				
-					dynamicsWorld->setGravity(btVector3(0,-9,0));
+					
 					physicsFactory2->CreateWall(glm::vec3(0,0,0), gameCount, 10);
-					dynamicsWorld->removeRigidBody(watcher->rigidBody);
+					
 					watcher = physicsFactory2->CreateFromModel("buddha",glm::vec3(0,60,0),glm::quat(),glm::vec3(5,5,5));
 					success=false;
 					
